@@ -1,6 +1,6 @@
 # Pumpfun Solana Bundler Frontend Dashboard (FIXED JITO)
 
-> **All credit goes to [TrenchyDev](https://github.com/TrenchyDev) for the original project.** I fixed the Jito bundling delay so launches are instant — no more 60s cooldown between bundles. Also added retry logic for IPFS uploads and auto-funding for sells.
+>I fixed the Jito bundling delay so launches are instant — no more 60s cooldown between bundles. Also added retry logic for IPFS uploads and auto-funding for sells.
 
 ---
 
